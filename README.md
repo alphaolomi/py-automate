@@ -1,4 +1,4 @@
-# PyAuto
+# PyAutomate
 
 A victim of Automation
 
