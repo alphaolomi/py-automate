@@ -1,8 +1,7 @@
 # PyAutomate
 
-A victim of Automation
+Explore automation, expreince techniques, A victim of Automation
 
-Inspired from  `Automate the Boring Stuff with Python: Practical Programming for Total Beginners Book`  by _Al Sweigart_ [link](https://automatetheboringstuff.com/)
 
 ## Usage
 
@@ -24,26 +23,15 @@ python ./script.py -O
 This will run an optimized version of your program that skips the
 assertion checks.
 
-## development
+## Inspiration
 
-```sh
-pip3 install send2trash
-pip3 install requests
-pip3 install beautifulsoup4
-pip3 install selenium
-pip3 install openpyxl
-pip3 install PyPDF2
-pip3 install python-docx (install python-docx , not docx )
-pip3 install imapclient
-pip3 install pyzmail
-pip3 install twilio
-pip3 install pillow
-pip3 install pyobjc-core (on OS X only)
-pip3 install pyobjc (on OS X only)
-pip3 install python3-xlib (on Linux only)
-pip3 install pyautogui
-```
+Inspired from  
 
+- `Automate the Boring Stuff with Python: Practical Programming for Total Beginners Book`  by _Al Sweigart_ [link](https://automatetheboringstuff.com/)
+
+- `Python Automation Cookbook: Explore the World of Automation Using Python recipes that will enhance your skills` by _Jaime Buelta_ [link](https://www.packtpub.com/application-development/python-automation-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789133806)
+
+- `Network Automation Using Python 3: An Administrator's Handbook Book` by _Jithin Alex_ [link](https://www.amazon.com/Network-Automation-using-Python-Administrators/dp/1724108840)
 ## License
 
 BSD-3 License
