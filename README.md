@@ -2,6 +2,8 @@
 
 A victim of Automation
 
+Inspired from  `Automate the Boring Stuff with Python: Practical Programming for Total Beginners Book`  by _Al Sweigart_ [link](https://automatetheboringstuff.com/)
+
 ## Usage
 
 - On Windows, the shebang line is `#! python3`
@@ -44,4 +46,4 @@ pip3 install pyautogui
 
 ## License
 
-MIT
+BSD-3 License
